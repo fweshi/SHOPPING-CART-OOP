@@ -5,15 +5,15 @@ This project walks through the creation of Product, ShoppingCartItem, and Shoppi
 
 ---
 
-## 📌 Features Implemented
+## Features Implemented
 
-### 1. Product Class**
+### 1. Product Class
 Stores:
 - `id`
 - `name`
 - `price`
 
-### 2. ShoppingCartItem Class**
+### 2. ShoppingCartItem Class
 Stores:
 - `product` (Product instance)
 - `quantity`
@@ -21,7 +21,7 @@ Stores:
 Also includes:
 - `getTotalPrice()` → returns `price × quantity`.
 
-### 3. ShoppingCart Class**
+### 3. ShoppingCart Class
 Stores:
 - An array of ShoppingCartItem instances
 
