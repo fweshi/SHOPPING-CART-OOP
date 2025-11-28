@@ -3,7 +3,7 @@
 A simple Object-Oriented Programming (OOP) implementation of a shopping cart system using JavaScript.  
 This project walks through the creation of Product, ShoppingCartItem, and ShoppingCart classes, following OOP principles with clarity and structure.
 
----
+
 
 ## Features Implemented
 
@@ -49,4 +49,4 @@ All the logic is implemented in shopping-cart-oop.js.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/shopping-cart-oop.git
+git clone https://github.com/fweshi/SHOPPING-CART-OOP.git
